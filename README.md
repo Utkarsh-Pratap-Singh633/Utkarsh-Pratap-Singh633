@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...2025<br>📚 I'm currently learning ... Java <br>🎯 Goals: ...To became a software engineer<br>🎲 Fun fact: ...I go outdoor sometimes</p>
+<p align="left">✨ Creating bugs since ...2023<br>📚 I'm currently learning ... Java <br>🎯 Goals: ...To became a software engineer<br>🎲 Fun fact: ...I go outdoor sometimes</p>
 
 ###
 
