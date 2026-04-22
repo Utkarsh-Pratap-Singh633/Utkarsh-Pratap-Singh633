@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....Utkarsh Pratap Singh</p>
+<p align="left">My name is -->Utkarsh Pratap Singh and I'm a Aspiring java Backend Developer from NCR</p>
 
 ###
 
