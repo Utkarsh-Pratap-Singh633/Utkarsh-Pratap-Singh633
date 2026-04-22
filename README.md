@@ -14,12 +14,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://share.google/KenZ7nyB2D17umXgb"  />
-</div>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
