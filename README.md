@@ -5,8 +5,7 @@
 <p align="left">👋 Hey there! I'm Utkarsh Pratap Singh<br>
 
 💻 Aspiring Java Backend Developer from NCR, India<br>
-🚀 Passionate about building scalable systems & writing clean, efficient code<br>
-📚 Currently mastering Java and exploring the backend world step by step</p>
+🚀 Passionate about building scalable systems & writing clean, efficient code<br></p>
 
 ###
 
