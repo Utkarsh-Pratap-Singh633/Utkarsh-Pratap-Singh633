@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">My name is -->Utkarsh Pratap Singh and I'm a Aspiring java Backend Developer from NCR</p>
+<p align="left">👋 Hey there! I'm Utkarsh Pratap Singh<br>
+
+💻 Aspiring Java Backend Developer from NCR, India<br>
+🚀 Passionate about building scalable systems & writing clean, efficient code<br>
+📚 Currently mastering Java and exploring the backend world step by step</p>
 
 ###
 
