@@ -10,15 +10,12 @@
 
 ###
 
-<p align="left">✨ Crafting bugs into features since 2023
-💻 Currently diving deep into Java & building my coding mindset
-🎯 Mission: Turning curiosity into code as I grow into a Software Engineer
-🚀 Always learning, always leveling up
-
-🌿 When I’m not coding, you’ll find me outside recharging (yes, devs do touch grass 😄)
-🎲 Fun fact: I believe every bug is just a hidden lesson in disguise
-
-👀 Stick around — this journey is just getting started!</p>
+<p align="left">✨ Crafting bugs into features since 2023<br>
+💻 Currently diving deep into Java & building my coding mindset<br>
+🎯 Mission: Turning curiosity into code as I grow into a Software Engineer<br>
+🚀 Always learning, always leveling up<br>
+🌿 When I’m not coding, I go outside and recharge<br>
+🎲 Fun fact: Every bug teaches me something new</p>
 
 ###
 
