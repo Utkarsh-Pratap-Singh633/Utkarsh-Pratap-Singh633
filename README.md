@@ -10,7 +10,15 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...2023<br>📚 I'm currently learning ... Java <br>🎯 Goals: ...To became a software engineer<br>🎲 Fun fact: ...I go outdoor sometimes</p>
+<p align="left">✨ Crafting bugs into features since 2023
+💻 Currently diving deep into Java & building my coding mindset
+🎯 Mission: Turning curiosity into code as I grow into a Software Engineer
+🚀 Always learning, always leveling up
+
+🌿 When I’m not coding, you’ll find me outside recharging (yes, devs do touch grass 😄)
+🎲 Fun fact: I believe every bug is just a hidden lesson in disguise
+
+👀 Stick around — this journey is just getting started!</p>
 
 ###
 
